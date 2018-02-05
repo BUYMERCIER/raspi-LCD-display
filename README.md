@@ -8,3 +8,11 @@ chmod -R 755 LCD-show
 cd LCD-show
 sudo ./LCD-show35
 ```
+## Enable HDMI back
+
+(disables LCD display)
+
+```
+cd LCD-show
+./LCD-hdmi
+```
